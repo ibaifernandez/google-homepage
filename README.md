@@ -6,4 +6,4 @@ As part of the The Odin Project's Fundamentals module, these are my Google Homep
 
 [**2. Google Standard Homepage**](https://ibaifernandez.github.io/google-homepage/google-homepage.html)
 
-[**3. A landing page**](https://ibaifernandez.github.io/freecodecamp-projects/google-homepage/google-results.html)
+[**3. Google Results Page**](https://ibaifernandez.github.io/freecodecamp-projects/google-homepage/google-results.html)
